@@ -4,12 +4,14 @@ html {
 
 body {
     margin-bottom: 120px;
+    margin-top: 30px;
 }
 
 .jumbotron img{
     width: 200px;
     border: 5px solid #333;
 }
+
 hr{
     width: 250px;
     border-top: 3px solid #999;
