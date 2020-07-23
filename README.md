@@ -1,3 +1,3 @@
 # static-page
-static page html css
+static homepage html css javascript
 boostrap 3
